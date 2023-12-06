@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Introduction Section -->
+    <url>
+        <loc>https://muslewski.com/index.html</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Introduction Images -->
+    <url>
+        <loc>https://muslewski.com/images/introduction/background.jpg</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://muslewski.com/images/introduction/arrow1.png</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Description Section -->
+    <url>
+        <loc>https://muslewski.com/#description</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Description Images -->
+    <url>
+        <loc>https://muslewski.com/images/description/cat.png</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://muslewski.com/images/description/stain.png</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://muslewski.com/images/description/hello.png</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://muslewski.com/images/description/pfp.jpg</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Projects Section -->
+    <url>
+        <loc>https://muslewski.com/#projects</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Projects Images -->
+    <url>
+        <loc>https://muslewski.com/images/projects/ocean.jpg</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://muslewski.com/images/projects/project1.jpg</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://muslewski.com/images/projects/project2.jpg</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://muslewski.com/images/projects/project3.jpg</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Contact Section -->
+    <url>
+        <loc>https://muslewski.com/#contact</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Contact Images -->
+    <url>
+        <loc>https://muslewski.com/images/contact/ground.png</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://muslewski.com/images/contact/bones.png</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Footer Images -->
+    <url>
+        <loc>https://muslewski.com/images/footer/stone.png</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://muslewski.com/images/footer/twitter.png</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://muslewski.com/images/footer/github.png</loc>
+        <lastmod>2023-12-06T12:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+</urlset>
