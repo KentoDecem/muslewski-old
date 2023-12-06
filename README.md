@@ -4,7 +4,7 @@ Welcome to my personal web development portfolio! This repository contains the s
 
 ## Demo
 
-You can visit my portfolio live at [muslewski.com](muslewski.com).
+You can visit my portfolio live at [muslewski.com](https://muslewski.com).
 
 ## Technologies Used
 
