@@ -28,4 +28,3 @@ This project is licensed under the [Your License Name] - see the [LICENSE.md](LI
 
 - Email: mateusz.mus@proton.me
 - Twitter: [Here](https://twitter.com/KentoDecem)
-- GitHub: [Here](https://github.com/KentoDecem/)
