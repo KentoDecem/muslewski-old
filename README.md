@@ -4,7 +4,7 @@ Welcome to my personal web development portfolio! This repository contains the s
 
 ## Demo
 
-You can visit my portfolio live at [My Portfolio Link](muslewski.com).
+You can visit my portfolio live at [CLICK](muslewski.com).
 
 ## Technologies Used
 
@@ -27,5 +27,5 @@ This project is licensed under the [Your License Name] - see the [LICENSE.md](LI
 ## Contact
 
 - Email: mateusz.mus@proton.me
-- Twitter: [Twitter](https://twitter.com/KentoDecem)
-- GitHub: [Github](https://github.com/KentoDecem/)
+- Twitter: [Click](https://twitter.com/KentoDecem)
+- GitHub: [Click](https://github.com/KentoDecem/)
